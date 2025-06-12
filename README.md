@@ -9,3 +9,6 @@
 
 ## Project 2: Blocking vs Non-Blocking Assignments in Verilog
 ![image](https://github.com/user-attachments/assets/ad750017-99ed-4404-b7cb-0e7531b60470)
+
+## Project 3: Memory Variable Assignments in Verilog
+![image](https://github.com/user-attachments/assets/de994d41-1e21-48b4-abed-75830d183b4e)
