@@ -12,3 +12,9 @@
 
 ## Project 3: Memory Variable Assignments in Verilog
 ![image](https://github.com/user-attachments/assets/de994d41-1e21-48b4-abed-75830d183b4e)
+
+### Sequential Circuits
+## Project 4: 4-to-1 MUX RTL
+![image](https://github.com/user-attachments/assets/79cdcfab-c3f0-44ac-8c0f-a95d12890ae4)
+![image](https://github.com/user-attachments/assets/b146af3c-9c6d-4226-aac9-f6d8467dd2f3)
+![image](https://github.com/user-attachments/assets/90602516-7983-42d6-9530-cfd8ad10ab61)
